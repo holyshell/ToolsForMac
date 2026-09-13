@@ -40,7 +40,7 @@ macOS 平台除 App Store 外，还有包管理器 [Homebrew](https://brew.sh/)�
 
 - [OBS](https://obsproject.com/)：专业级的屏幕录制和直播工具，跨平台；轻量级屏幕录制可选 [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)、[Recordly](https://github.com/webadderall/Recordly)。📍
 
-- [Raycast](https://www.raycast.com)：综合效率工具，支持插件，可替代很多独立软件，含付费功能。📍
+- [Raycast](https://www.raycast.com)：综合效率工具，支持插件，可替代很多独立软件，含付费功能；可选产品有 [Tinycast](https://github.com/abue-ammar/tinycast)。📍
 
 - [Squirrel](https://github.com/rime/squirrel)：鼠须管输入法，支持高度自定义，跨平台，配置和字库可使用 [rime-ice](https://github.com/iDvel/rime-ice) ；可选产品有 [Fcitx](https://fcitx-contrib.github.io/docs/) 。📍
 
